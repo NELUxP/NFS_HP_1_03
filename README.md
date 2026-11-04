@@ -1,4 +1,4 @@
-[![nfs](https://i.ibb.co/svdrY8hC/nfs.png)](https://ibb.co/svdrY8hC)
+[![nfs](https://i.ibb.co/DDHn20NY/nfs.png)](https://ibb.co/DDHn20NY)
 # PS4 Trainer - Need for Speed™ Hot Pursuit ReTuned v1
 
 <div align="center">
