@@ -1,4 +1,4 @@
-# 🎮 NFS HP 1.03 — PS4 Trainer - Need for Speed™ Hot Pursuit ReTuned v1
+# PS4 Trainer - Need for Speed™ Hot Pursuit ReTuned v1
 
 <div align="center">
 
