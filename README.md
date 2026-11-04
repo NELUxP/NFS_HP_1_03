@@ -172,7 +172,7 @@ This project is provided **as-is** for educational purposes. See the repository'
 ---
 
 ## 🙏 Acknowledgments
-
+- 🏆 [**ps4debug NG**](https://github.com/Pharaoh2k/ps4debug-NG) — ps4debug NG
 - 🏆 [**GoldHEN**](https://github.com/GoldHEN/GoldHEN) — PS4 payload
 - 🛠️ [**libdebug**](https://github.com/GoldHEN/libdebug) — PS4 debugging library
 - 🎨 [**Guna UI**](https://gunaui.com/) — Modern UI toolkit
